@@ -13,5 +13,5 @@ void loop() {
             delay(200)；
         }
     }
-    delay(1100)；
+    delay(3100)；
 }
