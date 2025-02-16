@@ -13,5 +13,9 @@ void loop() {
             delay(200)；
         }
     }
+<<<<<<< HEAD
     delay(3100)；
+=======
+    delay(2100)；
+>>>>>>> develop
 }
